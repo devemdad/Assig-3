@@ -12,5 +12,5 @@ app.get("/", function(req, res){
 
 
 app.listen(5080, function(){
-    console.log("Server Run Success.") ;
+    console.log("Server Run Success") ;
 })
